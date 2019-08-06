@@ -25,6 +25,8 @@ The highest confidence score from the combined results of the 11 single emotion 
 
 # Sample Results
 
-![alt text](/sample%20results/happy.png "Happy face - confidence: 0.9993")</br>&nbsp;&nbsp;&nbsp;&nbsp;**Happy Face** (confidence: 0.9993)
+![alt text](/sample%20results/happy.png "Happy face - confidence: 0.9993")
+</br>&nbsp;&nbsp;&nbsp;&nbsp;**Happy Face** (confidence: 0.9993)
 </br>
-![alt text](/sample%20results/surprise.png "Surprised face - confidence: 0.99804")</br>&nbsp;&nbsp;&nbsp;&nbsp;**Surprised face** (confidence: 0.99804)
+![alt text](/sample%20results/surprise.png "Surprised face - confidence: 0.99804")
+</br>&nbsp;&nbsp;&nbsp;&nbsp;**Surprised face** (confidence: 0.99804)
