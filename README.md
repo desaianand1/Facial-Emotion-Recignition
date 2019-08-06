@@ -30,3 +30,6 @@ The highest confidence score from the combined results of the 11 single emotion 
 </br>
 ![alt text](/sample%20results/surprise.png "Surprised face - confidence: 0.99804")
 </br>&nbsp;&nbsp;&nbsp;&nbsp;**Surprised face** (confidence: 0.99804)
+
+# Credits
+Anand Desai, Alyssa Crawford, Gabriel-Paree Huff
