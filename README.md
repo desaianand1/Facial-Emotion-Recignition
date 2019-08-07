@@ -1,6 +1,6 @@
 # Facial Emotion Recignition
 
-An image classifier that can categorize a face into one of the following 11 emotions with an accuracy of 40.91% :
+An image classifier that can categorize a face into one of the following 11 emotions with an accuracy of **40.91%** :
 
 | Neutral | Happy | Sad | Surprise | Fear | Disgust | Anger | Contempt | None | Uncertain | Non-Face |
 |---|---|---|---|---|---|---|---|---|---|---|
