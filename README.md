@@ -1,4 +1,4 @@
-# Facial Emotion Recignition
+# Facial Emotion Recognition
 
 An image classifier that can categorize a face into one of the following 11 emotions with an accuracy of **40.91%**  (Note: Random guess accuracy = 9.09%) :
 
